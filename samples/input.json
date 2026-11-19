@@ -1,0 +1,277 @@
+{
+  "schemaVersion": 1,
+  "fictional": true,
+  "referenceTime": "2026-11-19T12:00:00+09:00",
+  "members": [
+    {
+      "id": "sample-aoi",
+      "name": "朝陽あおい",
+      "en_name": "aoi sunrise",
+      "generation": 1,
+      "isActive": true
+    },
+    {
+      "id": "sample-rin",
+      "name": "夕凪りん",
+      "en_name": "rin sunset",
+      "generation": 2,
+      "isActive": true
+    },
+    {
+      "id": "sample-haru",
+      "name": "月城はる",
+      "en_name": "haru moon",
+      "generation": 3,
+      "isActive": true
+    },
+    {
+      "id": "sample-sora",
+      "name": "空野そら",
+      "en_name": "sora sky",
+      "generation": 1,
+      "isActive": false
+    }
+  ],
+  "content": [
+    {
+      "id": "demo-001",
+      "title": "サンプルドラマ 第1回",
+      "category": "tver",
+      "members": [
+        "sample-aoi"
+      ],
+      "url": "https://example.com/demo/001",
+      "description": "公開デモ専用の架空コンテンツです。実在する番組・動画とは関係ありません。",
+      "publishDate": "2026/11/19",
+      "expiresAt": "2026-11-19T18:00:00+09:00"
+    },
+    {
+      "id": "demo-002",
+      "title": "架空の街歩き 第1回",
+      "category": "youtube-movie",
+      "members": [
+        "sample-rin"
+      ],
+      "url": "https://example.com/demo/002",
+      "description": "公開デモ専用の架空コンテンツです。実在する番組・動画とは関係ありません。",
+      "publishDate": "2026/11/18",
+      "expiresAt": "2026-11-20T18:00:00+09:00"
+    },
+    {
+      "id": "demo-003",
+      "title": "デモのショート 第1回",
+      "category": "youtube-shorts",
+      "members": [
+        "sample-haru"
+      ],
+      "url": "https://example.com/demo/003",
+      "description": "公開デモ専用の架空コンテンツです。実在する番組・動画とは関係ありません。",
+      "publishDate": "2026/11/17",
+      "expiresAt": "2026-11-21T18:00:00+09:00"
+    },
+    {
+      "id": "demo-004",
+      "title": "サンプルトーク 第1回",
+      "category": "youtube-live",
+      "members": [
+        "sample-sora"
+      ],
+      "url": "https://example.com/demo/004",
+      "description": "公開デモ専用の架空コンテンツです。実在する番組・動画とは関係ありません。",
+      "publishDate": "2026/11/16",
+      "expiresAt": "2026-11-24T18:00:00+09:00"
+    },
+    {
+      "id": "demo-005",
+      "title": "架空ラジオ 第1回",
+      "category": "audio",
+      "members": [
+        "sample-aoi"
+      ],
+      "url": "https://example.com/demo/005",
+      "description": "公開デモ専用の架空コンテンツです。実在する番組・動画とは関係ありません。",
+      "publishDate": "2026/11/15",
+      "expiresAt": "2026-12-01T18:00:00+09:00"
+    },
+    {
+      "id": "demo-006",
+      "title": "デモ制作日記 第1回",
+      "category": "column",
+      "members": [
+        "sample-rin"
+      ],
+      "url": "https://example.com/demo/006",
+      "description": "公開デモ専用の架空コンテンツです。実在する番組・動画とは関係ありません。",
+      "publishDate": "2026/11/14",
+      "expiresAt": null
+    },
+    {
+      "id": "demo-007",
+      "title": "サンプルドラマ 第2回",
+      "category": "tver",
+      "members": [
+        "sample-haru"
+      ],
+      "url": "https://example.com/demo/007",
+      "description": "公開デモ専用の架空コンテンツです。実在する番組・動画とは関係ありません。",
+      "publishDate": "2026/11/13",
+      "expiresAt": "2026-11-19T18:00:00+09:00"
+    },
+    {
+      "id": "demo-008",
+      "title": "架空の街歩き 第2回",
+      "category": "youtube-movie",
+      "members": [
+        "sample-sora"
+      ],
+      "url": "https://example.com/demo/008",
+      "description": "公開デモ専用の架空コンテンツです。実在する番組・動画とは関係ありません。",
+      "publishDate": "2026/11/12",
+      "expiresAt": "2026-11-20T18:00:00+09:00"
+    },
+    {
+      "id": "demo-009",
+      "title": "デモのショート 第2回",
+      "category": "youtube-shorts",
+      "members": [
+        "sample-aoi"
+      ],
+      "url": "https://example.com/demo/009",
+      "description": "公開デモ専用の架空コンテンツです。実在する番組・動画とは関係ありません。",
+      "publishDate": "2026/11/19",
+      "expiresAt": "2026-11-21T18:00:00+09:00"
+    },
+    {
+      "id": "demo-010",
+      "title": "サンプルトーク 第2回",
+      "category": "youtube-live",
+      "members": [
+        "sample-rin"
+      ],
+      "url": "https://example.com/demo/010",
+      "description": "公開デモ専用の架空コンテンツです。実在する番組・動画とは関係ありません。",
+      "publishDate": "2026/11/18",
+      "expiresAt": "2026-11-24T18:00:00+09:00"
+    },
+    {
+      "id": "demo-011",
+      "title": "架空ラジオ 第2回",
+      "category": "audio",
+      "members": [
+        "sample-haru"
+      ],
+      "url": "https://example.com/demo/011",
+      "description": "公開デモ専用の架空コンテンツです。実在する番組・動画とは関係ありません。",
+      "publishDate": "2026/11/17",
+      "expiresAt": "2026-12-01T18:00:00+09:00"
+    },
+    {
+      "id": "demo-012",
+      "title": "デモ制作日記 第2回",
+      "category": "column",
+      "members": [
+        "sample-sora"
+      ],
+      "url": "https://example.com/demo/012",
+      "description": "公開デモ専用の架空コンテンツです。実在する番組・動画とは関係ありません。",
+      "publishDate": "2026/11/16",
+      "expiresAt": null
+    },
+    {
+      "id": "demo-013",
+      "title": "サンプルドラマ 第3回",
+      "category": "tver",
+      "members": [
+        "sample-aoi"
+      ],
+      "url": "https://example.com/demo/013",
+      "description": "公開デモ専用の架空コンテンツです。実在する番組・動画とは関係ありません。",
+      "publishDate": "2026/11/15",
+      "expiresAt": "2026-11-19T18:00:00+09:00"
+    },
+    {
+      "id": "demo-014",
+      "title": "架空の街歩き 第3回",
+      "category": "youtube-movie",
+      "members": [
+        "sample-rin"
+      ],
+      "url": "https://example.com/demo/014",
+      "description": "公開デモ専用の架空コンテンツです。実在する番組・動画とは関係ありません。",
+      "publishDate": "2026/11/14",
+      "expiresAt": "2026-11-20T18:00:00+09:00"
+    },
+    {
+      "id": "demo-015",
+      "title": "デモのショート 第3回",
+      "category": "youtube-shorts",
+      "members": [
+        "sample-haru"
+      ],
+      "url": "https://example.com/demo/015",
+      "description": "公開デモ専用の架空コンテンツです。実在する番組・動画とは関係ありません。",
+      "publishDate": "2026/11/13",
+      "expiresAt": "2026-11-21T18:00:00+09:00"
+    },
+    {
+      "id": "demo-016",
+      "title": "サンプルトーク 第3回",
+      "category": "youtube-live",
+      "members": [
+        "sample-sora"
+      ],
+      "url": "https://example.com/demo/016",
+      "description": "公開デモ専用の架空コンテンツです。実在する番組・動画とは関係ありません。",
+      "publishDate": "2026/11/12",
+      "expiresAt": "2026-11-24T18:00:00+09:00"
+    },
+    {
+      "id": "demo-017",
+      "title": "架空ラジオ 第3回",
+      "category": "audio",
+      "members": [
+        "sample-aoi"
+      ],
+      "url": "https://example.com/demo/017",
+      "description": "公開デモ専用の架空コンテンツです。実在する番組・動画とは関係ありません。",
+      "publishDate": "2026/11/19",
+      "expiresAt": "2026-12-01T18:00:00+09:00"
+    },
+    {
+      "id": "demo-018",
+      "title": "デモ制作日記 第3回",
+      "category": "column",
+      "members": [
+        "sample-rin"
+      ],
+      "url": "https://example.com/demo/018",
+      "description": "公開デモ専用の架空コンテンツです。実在する番組・動画とは関係ありません。",
+      "publishDate": "2026/11/18",
+      "expiresAt": null
+    },
+    {
+      "id": "demo-expired",
+      "title": "配信終了済みの架空番組",
+      "category": "tver",
+      "members": [
+        "sample-aoi"
+      ],
+      "url": "https://example.com/demo/001",
+      "description": "公開デモ専用の架空コンテンツです。実在する番組・動画とは関係ありません。",
+      "publishDate": "2026/11/19",
+      "expiresAt": "2026-11-18T12:00:00+09:00"
+    },
+    {
+      "id": "demo-001",
+      "title": "サンプルドラマ 第1回",
+      "category": "tver",
+      "members": [
+        "sample-aoi"
+      ],
+      "url": "https://example.com/demo/001",
+      "description": "公開デモ専用の架空コンテンツです。実在する番組・動画とは関係ありません。",
+      "publishDate": "2026/11/19",
+      "expiresAt": "2026-11-19T18:00:00+09:00"
+    }
+  ]
+}

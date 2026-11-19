@@ -1,0 +1,13 @@
+[
+  ".github/workflows/ci.yml",
+  ".gitignore",
+  ".python-version",
+  "README.md",
+  "pipeline.py",
+  "public-files.json",
+  "samples/input.json",
+  "scripts/export_public.py",
+  "scripts/verify_public.py",
+  "tests/test_pipeline.py",
+  "tests/test_public_export.py"
+]
